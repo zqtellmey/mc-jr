@@ -91,6 +91,8 @@ const bot = mineflayer.createBot({
 
 ---
 
+感谢原代码作者：https://github.com/ssd000012345/mc-keepalive
+
 ## License
 
 MIT License
